@@ -1,4 +1,4 @@
-# ArV.Rio - Análise espacial da Arborização Viária do Rio a nível de logradouro
+# Análise espacial da Arborização Viária do Rio a nível de logradouro
 
 ## Sobre o Projeto
 
@@ -11,20 +11,3 @@ O **Arv.Rio** é uma ferramenta de análise geoespacial que calcula e visualiza 
 - Gerar mapas interativos para visualização dos resultados
 - Identificar áreas prioritárias para plantio de árvores
 - Fornecer base para políticas públicas de arborização
-
-## Estrutura de Diretórios
-
-ArvoRio/
-├── data/
-│   ├── raster/          # Arquivos .tif de arborização
-│   └── vetor/           # Shapefiles/GeoPackages de logradouros
-├── scripts/
-│   ├── arvorio_main.R   # Script principal
-│   ├── arvorio_functions.R  # Funções modulares
-│   └── arvorio_leaflet.R    # Visualização interativa
-├── results/             # Resultados gerados
-├── docs/                # Documentação
-├── README.md
-├── LICENSE
-└── .gitignore
-
