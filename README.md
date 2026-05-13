@@ -1,8 +1,4 @@
-# 🌳 ArV.Rio - Análise espacial da Arborização Viária do Rio a nível de logradouro
-
-[![R Version](https://img.shields.io/badge/R-4.3+-blue.svg)](https://www.r-project.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+# ArV.Rio - Análise espacial da Arborização Viária do Rio a nível de logradouro
 
 ## 📖 Sobre o Projeto
 
