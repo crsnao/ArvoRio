@@ -1,10 +1,10 @@
 # ArV.Rio - Análise espacial da Arborização Viária do Rio a nível de logradouro
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O **Arv.Rio** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro. O projeto utiliza dados de sensoriamento remoto e geoprocessamento para gerar relatórios e mapas interativos que auxiliam no planejamento urbano sustentável.
 
-### 🎯 Objetivos
+### Objetivos
 
 - Calcular a porcentagem exata de cobertura arbórea por trecho de rua
 - Classificar logradouros por nível de arborização
@@ -12,7 +12,7 @@ O **Arv.Rio** é uma ferramenta de análise geoespacial que calcula e visualiza 
 - Identificar áreas prioritárias para plantio de árvores
 - Fornecer base para políticas públicas de arborização
 
-## ✨ Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ArvoRio/
 ├── data/
