@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-O **Arv.Rio** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro. O projeto utiliza dados de sensoriamento remoto e geoprocessamento para gerar relatórios e mapas interativos que auxiliam no planejamento urbano sustentável.
+O **ArV.Cid** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro. O projeto utiliza dados de sensoriamento remoto e geoprocessamento para gerar relatórios e mapas interativos que auxiliam no planejamento urbano sustentável.
 
 ### Objetivos
 
