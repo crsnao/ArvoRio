@@ -1,4 +1,4 @@
-# Análise espacial da Cobertura Arbórea Viária a nível de logradouro
+# Análise da Cobertura Arbórea Viária a nível de logradouro
 
 ## Sobre o Projeto
 
@@ -12,14 +12,12 @@ O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza 
 - Identificar áreas prioritárias para plantio de árvores
 - Fornecer base para políticas públicas de arborização
 
-# README - Análise da Arborização no Subúrbio do Rio de Janeiro
-
 ## Instruções para Execução
 
 Os scripts devem ser executados na seguinte ordem:
 
-1. Primeiro, execute o script `func_arvorio.R`
-2. Em seguida, execute o script `analise_arvorio.R`
+1. Primeiro, execute o `script1_func_arvorio.R`
+2. Em seguida, execute o `script2_analise_arvorio.R`
 
 ## Dependências
 
