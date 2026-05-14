@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro. O projeto utiliza dados de sensoriamento remoto e geoprocessamento para gerar relatórios e mapas interativos que auxiliam no planejamento urbano sustentável.
+O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro.
 
 ### Objetivos
 
@@ -11,3 +11,33 @@ O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza 
 - Gerar mapas interativos para visualização dos resultados
 - Identificar áreas prioritárias para plantio de árvores
 - Fornecer base para políticas públicas de arborização
+
+# README - Análise da Arborização no Subúrbio do Rio de Janeiro
+
+## Instruções para Execução
+
+Os scripts devem ser executados na seguinte ordem:
+
+1. Primeiro, execute o script `func_arvorio.R`
+2. Em seguida, execute o script `analise_arvorio.R`
+
+## Dependências
+
+Carregue os seguintes pacotes antes de executar as análises:
+
+```r
+library(terra)
+library(sf)
+library(exactextractr)
+library(ggplot2)
+library(dplyr)
+library(mapview)
+```
+
+## Instalação dos pacotes
+
+Caso não os tenha instalados, execute:
+
+```r
+install.packages(c("terra", "sf", "exactextractr", "ggplot2", "dplyr", "mapview"))
+```
