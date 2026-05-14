@@ -1,4 +1,4 @@
-# ArvoRio
+# Arv.Rio
 
 # Carregar pacotes
 library(terra)
@@ -9,8 +9,8 @@ library(dplyr)
 library(mapview)
 
 # Caminhos dos arquivos (EDITAR CONFORME NECESSÁRIO)
-raster_path <- "ArvoRio/dados_teste/ivu_teste.tif"          # <--- SEU RASTER
-vetor_path  <- "ArvoRio/dados_teste/logradouros_teste_ilha.gpkg"  # <--- SUAS RUAS
+raster_path <- "ArvoRio/dados_teste/ivu_teste.tif"          # <--- CAMINHO PARA O MAPA RASTER DE ARBORIZAÇÃO
+vetor_path  <- "ArvoRio/dados_teste/logradouros_teste_ilha.gpkg"  # <--- CAMINHO PARA MAPA DE LOGRADOUROS
 buffer_m    <- 5  # Buffer em metros (NULL se não quiser buffer)
 
 # EXECUTAR 
