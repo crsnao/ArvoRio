@@ -1,4 +1,4 @@
-# Análise da Cobertura Arbórea Viária a nível de logradouro
+# Análise da Cobertura Arbórea a nível de logradouro
 
 ## Sobre o Projeto
 
