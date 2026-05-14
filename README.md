@@ -12,7 +12,7 @@ O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza 
 
 ## Instruções para Execução
 
-Para análise usamos os mapas de arborização urbana para Brasil produzidos por [Guo et al. 2023](https://www.sciencedirect.com/science/article/pii/S0924271623000461?via%3Dihub) e o mapa dos logradouros disponibilizados pelo [DATARIO](https://www.data.rio/datasets/PCRJ::logradouros/explore).
+Para análise foram usados o mapeamento da cobertura arbórea urbana para Brasil produzidos por [Guo et al. 2023](https://www.sciencedirect.com/science/article/pii/S0924271623000461?via%3Dihub) e o mapa dos logradouros disponibilizados pelo [DATARIO](https://www.data.rio/datasets/PCRJ::logradouros/explore).
 
 Os scripts devem ser executados na seguinte ordem:
 
