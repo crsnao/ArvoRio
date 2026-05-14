@@ -54,7 +54,7 @@ run_arvorio <- function(raster_path, vetor_path, buffer_m = NULL) {
     scale_color_gradient(low = "red", high = "darkgreen", 
                          name = "Cobertura (%)") +
     theme_minimal() +
-    ggtitle("ArvoRio - Cobertura Arbórea por Logradouro")
+    ggtitle("Cobertura Arbórea por Logradouro")
   
   print(p)
   
