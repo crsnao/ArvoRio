@@ -1,7 +1,5 @@
 # Análise da Cobertura Arbórea a nível de logradouro
 
-## Sobre o Projeto
-
 O **ArV.log** é uma ferramenta de análise geoespacial que calcula e visualiza o **grau de cobertura arbórea** em cada rua da cidade do Rio de Janeiro.
 
 ### Objetivos
